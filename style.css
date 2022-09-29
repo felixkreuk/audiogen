@@ -1,0 +1,152 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #333;
+    font-size: 18px;
+  }
+  #page-wrap {
+    width: 85%;
+    max-width: 1000px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #555;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-right: 50px;
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .authors {
+    color: #222;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+  }
+  
+  .assets {
+    color: #222;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5px;
+  }
+  
+  .logoimg {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+  .container-fluid {
+    margin-top: 20px;
+    margin-bottom: 16px;
+  }
+  .container {
+    margin-top: 15px;
+  }
+  
+  #footer {
+    margin-bottom: 50px;
+  }
+  
+  .overview {
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+  }
+  .thumbs {
+    display: inline-block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 1px 1px 3px #999;
+    -moz-box-shadow: 1px 1px 3px #999;
+    box-shadow: 1px 1px 3px #999;
+    /* margin-bottom: 10px; */
+  }
+  .tftable {
+    color:#333333;
+    width:100%;
+    border-width: 1px;
+    border-color: #729ea5;
+    border-collapse: collapse;
+  }
+  .tftable th {
+    background-color:#acc8cc;
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #729ea5;
+    text-align:left;
+  }
+  .tftable tr {
+    background-color:#ffffff;
+  }
+  .tftable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #729ea5;
+    font-size: 16px;
+  }
+  .tftable tr:hover {
+    background-color:#ffff99;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: 400;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    font-weight: 350;
+    margin-bottom: 10px;
+  }
+  
+  b {
+    font-weight: 700px;
+  }
+  
+  .demos {
+      text-align: center;
+    margin-top:30px;
+    margin-bottom:30px;
+  }
+  
+  .demos .caption {
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 5px;
+      margin-bottom: 5px;
+  }
+  
+  .margin-top {
+      margin-top:3px;
+  }
+  
+  .margin-bottom {
+      margin-bottom:3px;
+  }
+  
+  .nopadding {
+     padding: 0 !important;
+     margin: 0 !important;
+  }
